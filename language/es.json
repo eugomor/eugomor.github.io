@@ -1,0 +1,24 @@
+{ 
+    "aboutlnk":"Sobre mi",
+    "skillslnk":"Habilidades",
+    "experiencelnk":"Experiencia",
+    "educationlnk":"Educación",
+    "portfoliolnk":"Portfolio",
+    "englishlnk":"Traducir a Inglés",
+    "tituloac":"Ingeniero Informático",
+    "downloadbt":"Descargar pdf",
+    "aboutTitle":"Sobre Mi",
+    "aboutP":"Hola, Soy Eusebio Gómez. I am passionate about UI/UX design and Web Design. I am a skilled front-end developer and master of graphic design tools such as Photoshop and Sketch. I am a quick learner and a team worker that gets the job done. I can easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.",
+    "aboutP2":"Yo  easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.",
+    "pSkills":"Habilidades Profesionales",
+    "bdate": "<i class=\"far fa-calendar-alt pe-2 text-muted\" style=\"width:24px;opacity:0.85;\"></i>F. de Nacimiento", 
+    "phone": "<i class=\"fas fa-phone pe-2 text-muted\" style=\"width:24px;opacity:0.85;\"></i>Teléfono",
+    "titleExperience" : "Experiencia Profesional",
+    "experienceTitle1":"Jefe de Informática <span class=\"text-muted h6\">en Arte Spanya S.L.</span>",
+    "experienceBody1" :"experienceBody1_es.html",
+    "titleEducation" : "Formación Oficial",
+    "titleOtherEducation" : "Formación Complementaria",
+    "otherEducation1": "Programa Superior en Gestión Empresarial<span class=\"text-muted h6\"> Por la Escuela de Negocios Tixe"
+   
+    
+}
