@@ -40,8 +40,14 @@
     "experienceBody6" :"experienceBody6_en.html",
 
     "titleEducation": "Official Education",
+    "education1" : "Bachelor of Computer Science <span class=\"text-muted h6\">from Pablo de Olavide University</span>",
+    "education2" : "High Technician in Administration and Finance.  <span class=\"text-muted h6\">from Regional College Punta del Verde</span>",
     "titleOtherEducation" : "Other Courses",
-    "otherEducation1": "Higher program in Business Management<span class=\"text-muted h6\"> From Tixe Business School"
+    "otherEducation1": "Higher program in Business Management<span class=\"text-muted h6\"> From Tixe Business School",
+    "otherEducation2" :" Specialization in Business Direction and Management<span class=\"text-muted h6\"> From Miguel de Cervantes University</span>",
+    "otherEducation3" : "Web App Developer  <span class=\"text-muted h6\">From Anfora Academy</span>",
+    "otherEducation4" :"Advanced English <span class=\"text-muted h6\">From Open English Master Academy </span>",
+    "otherEducation5" : "Internet/Intranet/Extranet Server Administration <span class=\"text-muted h6\"> From Aesita Innovation and Technology center</span>"
     
    
 }

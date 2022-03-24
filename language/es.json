@@ -42,8 +42,15 @@
     "experienceBody6" :"experienceBody6_es.html",
     
     "titleEducation" : "Formación Oficial",
+    "education1" : "Ingeniería Técnica en Informática de Gestión <span class=\"text-muted h6\"> Por la universidad Pablo de Olavide </span>",
+    "education2" : "Técnico Superior en Administración y Finanzas.  <span class=\"text-muted h6\"> Por el IES Punta del Verde</span>",
     "titleOtherEducation" : "Formación Complementaria",
-    "otherEducation1": "Programa Superior en Gestión Empresarial<span class=\"text-muted h6\"> Por la Escuela de Negocios Tixe"
+    "otherEducation1": "Programa Superior en Gestión Empresarial<span class=\"text-muted h6\"> Por la Escuela de Negocios Tixe",  
+    "otherEducation2" :" Especialización en Técnico Profesional en Dirección y Gestión de PYMES<span class=\"text-muted h6\"> Por la Universidad Miguel de Cervantes</span>",
+    "otherEducation3" : "Programador de Aplicaciones Informáticas  <span class=\"text-muted h6\"> Por Análisis y Formación Aplicada Anfora</span>",
+    "otherEducation4" :"Curso de Inglés Avanzado<span class=\"text-muted h6\"> Por Open English Master Academy </span>",
+    "otherEducation5" : "Curso de Administrador de Servidores Internet/Intranet/Extranet <span class=\"text-muted h6\"> Por Aesita Centros de Innovación y Tecnología</span>"
+    
    
     
 }
