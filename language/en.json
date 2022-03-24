@@ -8,7 +8,7 @@
     "tituloac":"Computer Science Engineer",
     "downloadbt":"Download Pdf",     
     "aboutTitle":"About Me",
-    "aboutP":"Hello! I’m Eusebio Gómez Moreno. I am passionate about UI/UX design and Web Design. I am a skilled <strong>front-end developer</strong> and master of graphic design tools such as Photoshop and Sketch. I am a quick learner and a team worker that gets the job done.",
+    "aboutP":" Computer science engineer and Management & Finances high technician, extrovert, thoughtful, easy-going, quick learner, persistent, organized, dedicated and flexible, with strong ability to work under pressure, able to work on own initiative and as part of a team, time keeping management, systematic working and developing methodology.",
     "aboutP2":"I can easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.",
     "pSkills":"Professional Skills",
     "bdate": "<i class=\"far fa-calendar-alt pe-2 text-muted\" style=\"width:24px;opacity:0.85;\"></i>Birdth Date", 
@@ -16,7 +16,12 @@
     "titleExperience" : "Work Experience",
     "experienceTitle1":"Chief Digital Officer <span class=\"text-muted h6\">at Arte Spanya S.L.</span>",
     "experienceBody1" :"experienceBody1_es.html",
-
+    "experienceTitle2":"CTO <span class=\"text-muted h6\">at PreparoJusticia.es</span>",
+    "experienceBody2" :"experienceBody2_es.html",
+    "experienceTitle3":"CTO <span class=\"text-muted h6\">at PreparoJusticia.es</span>",
+    "experienceBody3" :"experienceBody2_es.html",
+    "experienceTitle4":"CTO <span class=\"text-muted h6\">at PreparoJusticia.es</span>",
+    "experienceBody4" :"experienceBody2_es.html",
     "titleEducation": "Official Education",
     "titleOtherEducation" : "Other Courses",
     "otherEducation1": "Higher program in Business Management<span class=\"text-muted h6\"> From Tixe Bussiness School"
