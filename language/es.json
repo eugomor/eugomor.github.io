@@ -8,24 +8,38 @@
     "tituloac":"Ingeniero Informático",
     "downloadbt":"Descargar pdf",
     "aboutTitle":"Sobre Mi",
-    "aboutP":"Ingeniero Informático y Técnico superior en administración y Finanzas. Con experiencia en gestión empresarial y el manejo de equipos, gran interés en campos relacionados con ERP´s,  Business Inteligence, y Desarrollo de software para empresas. Soy una persona responsable, con buenas habilidades sociales y experiencia en el trato con el público, investigador, sistemático, metodológico y pro-activo, me gusta tomar nuevos retos así como dar lo mejor de mí en mi trabajo. Me considero un profesional versátil, con capacidad de adaptación, y facilidad de aprendizaje. Me gusta trabajar en equipo. Cuento con  capacidad para resolver problemas en contextos de alta presión. ",
+    "aboutP":"Ingeniero Informático y Técnico superior en administración y Finanzas. Con experiencia en gestión empresarial y el manejo de equipos Humanos, gran interés en campos relacionados con ERP´s, Organización empresarial Metodologías Ágiles,  Business Intelligence, y Desarrollo de software para empresas. <br>Soy una persona responsable, con buenas habilidades sociales y experiencia en el trato con el cliente. <br>",
     "aboutP2":"En cuanto a manejo de idiomas, poseo dominio del inglés, tanto hablado como escrito (con experiencia laboral de 6 meses en Reino Unido). Disponibilidad para viajar.",
-    "pSkills":"Habilidades Profesionales",
+    "pSkillsT":"Habilidades Técnicas",
+    "pSkillsB":"Habilidades de Negocio",
     "bdate": "<i class=\"far fa-calendar-alt pe-2 text-muted\" style=\"width:24px;opacity:0.85;\"></i>F. de Nacimiento", 
     "phone": "<i class=\"fas fa-phone pe-2 text-muted\" style=\"width:24px;opacity:0.85;\"></i>Teléfono",
     "titleExperience" : "Experiencia Profesional",
+
     "experienceTitle1":"Jefe de Informática <span class=\"text-muted h6\">en Arte Spanya S.L.</span>",
+    "experienceDate1":"Enero de 2003 - Actualidad",
     "experienceBody1" :"experienceBody1_es.html",
-    "experienceTitle2":"Colaboración Desarrollo para StartUp <span class=\"text-muted h6\">en Kreomi (Raddarapp)</span>",
-    "experienceBody2" :"Se Desarrollo módulos de la aplicación Android conectando con Api REST Administrar base de datos Mongo DB Testeado de procesos.<br> Entorno de trabajo montado con Node en front-end Java Spring Boot en Back-end y gran parte corriendo en microservicios en cloud AWS ",
+
+    "experienceTitle2":"Colaboración Desarrollo para StartUp<span class=\"text-muted h6\"> en Kreomi (Raddarapp)</span>",
+    "experienceDate2":"Octubre de 2016 – Febrero de 2018",
+    "experienceBody2" :"Se Desarrollo funcionalidades de la aplicación Android conectando con Api REST, Administrar base de datos Mongo DB, Testeado de funcionalidades.<br> Entorno de trabajo estructurado en arquitectura basada en Microservicios alojados en maquinas AWS separando Backend (Java Spring Boot), Frontend (Node), Db(Mongo) App (Android) ",
+    
     "experienceTitle3":"Consultoría TIC <span class=\"text-muted h6\">en PreparoJusticia.es</span>",
-    "experienceBody3" :"Se Desarrolló un proyecto de transformacion digital de la Academia de oposiciones física del cliente para crear una nueva linea de negocio basada en medios digitales, aprovechando los contenidos ya disponibles.<br> Se implantó una plataforma Online de Formación Moodle adaptada a los requisitos del cliente para lo cual a parte de la instalación y configuración de la instancia Moodle en el servidor y los dominios, hubo que desarrollar varias partes de la plantilla HTML CSS y JavaScript, se configuró bajo el siguiente dominio:  <a href=\"http://formacion.preparojusticia.es/\">http://formacion.preparojusticia.es</a>. <br> Tambien hubo que configurar la web la cual siguie estando activa en la siguiente dirección <a href=\"https://www.preparojusticia.es\">https://www.preparojusticia.es</a>",
-    "experienceTitle4":"Colaboración Desarrollo para StartUp <span class=\"text-muted h6\">en eventalo.es</span>",
-    "experienceBody4" :"Desarrollo de Aplicación web para gestionar eventos.",
-    "experienceTitle5":"Responsable de área de Informática <span class=\"text-muted h6\">en Factor Consultores</span>",
-    "experienceBody5" :"Implantar y modificar plataformas online de formación Moodle para varios clientes.   Administración de servidores VPS.    Desarrollo Web.    Gestión de Base de datos.    Soporte y resolución de problemas a usuarios y clientes. Impartir curso técnico de desarrollo e implantación de plataformas elearning.",
-    "experienceTitle6":"Profesor online <span class=\"text-muted h6\">Formación Digital. Grupo GDT </span>",
+    "experienceDate3":"Noviembre de 2013 – Febrero de 2015",
+    "experienceBody3" :"Se Desarrolló un proyecto de transformación digital de la Academia de oposiciones física del cliente para crear una nueva linea de negocio basada en medios digitales, aprovechando los contenidos físicos (Temarios y exámenes para oposiciones de justicia) ya disponibles.<br> Se implantó una plataforma Online de Formación Moodle con los respectivos Cursos, Exámenes y Repositorios de Temarios para descarga y venta online, tuve que adaptar la apariencia a los requisitos del cliente, para lo cual desarrollé varias partes de la plantilla HTML CSS y JavaScript, se configuró bajo el siguiente dominio:  <a href=\"http://formacion.preparojusticia.es/\">http://formacion.preparojusticia.es</a>. <br> También hubo que configurar dicha web la cual sigue estando activa para su consulta en la siguiente dirección: <a href=\"https://www.preparojusticia.es\">https://www.preparojusticia.es</a>",
+    
+    "experienceTitle4":"Colaboración Desarrollo para StartUp <span class=\"text-muted h6\"> en eventalo.es</span>",
+    "experienceDate4":"Noviembre de 2012 – Julio de 2013",
+    "experienceBody4" :"Desarrollo de Aplicación web para gestionar eventos. Tecnologías: PHP, JavaScript, HTML, CSS",
+    
+    "experienceTitle5":"Responsable de área de Informática <span class=\"text-muted h6\"> en Factor Consultores S.L.</span>",
+    "experienceDate5":"Noviembre de 2011 – Febrero de 2012",
+    "experienceBody5" :"Implantar y modificar plataformas online de formación Moodle para varios clientes.   Administración de servidores VPS.    Desarrollo Web.    Gestión de Base de datos.    Soporte y resolución de problemas a usuarios y clientes. Impartir curso técnico de desarrollo e implantación de plataformas e-Learning.",
+    
+    "experienceTitle6":"Profesor Online <span class=\"text-muted h6\"> Formación Digital. Grupo GDT </span>",
+    "experienceDate6":"Noviembre de 2010 – Febrero de 2011",
     "experienceBody6" :"experienceBody6_es.html",
+    
     "titleEducation" : "Formación Oficial",
     "titleOtherEducation" : "Formación Complementaria",
     "otherEducation1": "Programa Superior en Gestión Empresarial<span class=\"text-muted h6\"> Por la Escuela de Negocios Tixe"

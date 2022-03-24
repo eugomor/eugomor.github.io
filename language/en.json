@@ -9,22 +9,39 @@
     "downloadbt":"Download Pdf",     
     "aboutTitle":"About Me",
     "aboutP":" Computer science engineer and Management & Finances high technician, extrovert, thoughtful, easy-going, quick learner, persistent, organized, dedicated and flexible, with strong ability to work under pressure, able to work on own initiative and as part of a team, time keeping management, systematic working and developing methodology.",
-    "aboutP2":"I can easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.",
-    "pSkills":"Professional Skills",
-    "bdate": "<i class=\"far fa-calendar-alt pe-2 text-muted\" style=\"width:24px;opacity:0.85;\"></i>Birdth Date", 
+    "aboutP2":"",
+    "pSkillsT":"Tech Skills",
+    "pSkillsB":"Business Skills",
+    "bdate": "<i class=\"far fa-calendar-alt pe-2 text-muted\" style=\"width:24px;opacity:0.85;\"></i>Birth Date", 
     "phone": "<i class=\"fas fa-phone pe-2 text-muted\" style=\"width:24px;opacity:0.85;\"></i>Phone",
     "titleExperience" : "Work Experience",
-    "experienceTitle1":"Chief Digital Officer <span class=\"text-muted h6\">at Arte Spanya S.L.</span>",
-    "experienceBody1" :"experienceBody1_es.html",
-    "experienceTitle2":"CTO <span class=\"text-muted h6\">at PreparoJusticia.es</span>",
-    "experienceBody2" :"experienceBody2_es.html",
-    "experienceTitle3":"CTO <span class=\"text-muted h6\">at PreparoJusticia.es</span>",
-    "experienceBody3" :"experienceBody2_es.html",
-    "experienceTitle4":"CTO <span class=\"text-muted h6\">at PreparoJusticia.es</span>",
-    "experienceBody4" :"experienceBody2_es.html",
+    "experienceTitle1":"Chief Digital Officer <span class=\"text-muted h6\"> at Arte Spanya S.L.</span>",
+    "experienceDate1":"Jan  2003 - Now",
+    "experienceBody1" :"experienceBody1_en.html",
+
+    "experienceTitle2":"Collaboration Developing in StartUp <span class=\"text-muted h6\"> at Kreomi (Raddarapp)</span>",
+    "experienceDate2":"Oct 2016 - Feb 2018",
+    "experienceBody2" :"Developed some Android App features, Api REST integration, Mongo DB administration, Code Testing, <br> Work Environment microservices Architecture running on AWS Separated in Back(Java Spring Boot), Front(Node) Db(Mongo) and App(Android) ",
+
+    "experienceTitle3":"IT Consulting <span class=\"text-muted h6\"> at PreparoJusticia.es</span>",
+    "experienceDate3":"Nov 2013 - Feb 2015",
+    "experienceBody3" :"Digital transformation project based on for customer Academy   ",
+
+    "experienceTitle4":"Collaboration Developing in StartUp <span class=\"text-muted h6\"> at eventalo.es</span>",
+    "experienceDate4":"Nov 2012 - Jul 2013",
+    "experienceBody4" :"Web App Developed to manage events. <br> Technologies: PHP, JavaScript, HTML, CSS ",
+
+    "experienceTitle5":"IT Chief <span class=\"text-muted h6\"> at Factor Consultores S.L.</span>",
+    "experienceDate5":"Nov 2011 - Feb 2012",
+    "experienceBody5" :"Responsibilities: Implant and modify e-Learning platform Moodle for customers. Manages Virtual Private Servers on Ubuntu Linux.  Web Development PHP  Data Base Managing MySql.  Customers and users Troubleshooting Support.   Teaching Courses for Users and Customers.  Technologies used:  PHP,HTML, Java Script, Ajax, MySql  VPS Linux ",
+
+    "experienceTitle6":"Online Teacher<span class=\"text-muted h6\"> at Formación Digital. Grupo GDT</span>",
+    "experienceDate6":"Nov 2010 - Feb 2011",
+    "experienceBody6" :"experienceBody6_en.html",
+
     "titleEducation": "Official Education",
     "titleOtherEducation" : "Other Courses",
-    "otherEducation1": "Higher program in Business Management<span class=\"text-muted h6\"> From Tixe Bussiness School"
+    "otherEducation1": "Higher program in Business Management<span class=\"text-muted h6\"> From Tixe Business School"
     
    
 }
